@@ -1,2 +1,3 @@
 git remote add origin git@github.com:exochristian/git-intro.git
 git push -u origin main
+git add <files> && Git commit -m haha
